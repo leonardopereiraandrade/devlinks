@@ -132,7 +132,7 @@ ul li a:hover {
 
 
     }
-    :light{
+    .light{
         --plano-de-fundo: url(../assets/bg-mobile-light.jpg);
 
 
